@@ -1,7 +1,7 @@
 # markdown-blog-bundle-example
 
 This is an example to show how to use [MarkdownBlogBundle](https://github.com/matks/MarkdownBlogBundle) :
- - a Symfony 2.8 application using the bundle
+ - a Symfony 3.1 application using the bundle
  - blog data and structure are provided by MarkdownBlogBundle
  - template from [bootstrap](http://getbootstrap.com/)
 

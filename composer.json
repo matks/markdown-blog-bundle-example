@@ -13,7 +13,7 @@
     },
     "require": {
         "php": ">=5.5",
-        "symfony/symfony": "2.8.*",
+        "symfony/symfony": "3.1.*",
         "symfony/monolog-bundle": "~2.4",
         "sensio/distribution-bundle": "~5.0",
         "sensio/framework-extra-bundle": "^3.0.2",
@@ -31,10 +31,7 @@
         ]
     },
     "config": {
-        "bin-dir": "bin",
-        "platform": {
-            "php": "5.5"
-        }
+        "bin-dir": "bin"
     },
     "extra": {
         "symfony-app-dir": "app",
